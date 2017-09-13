@@ -1,0 +1,3 @@
+sudo apt-get install vim zsh clang gcc terminator vlc mplayer build-essential git 
+
+sudo apt-get install qbittorrent filezilla gparted htop
